@@ -4382,6 +4382,8 @@ __webpack_require__.r(__webpack_exports__);
 //
 //
 //
+//
+//
 
 
 /* harmony default export */ __webpack_exports__["default"] = ({
@@ -28259,8 +28261,23 @@ var render = function() {
         _c("div", { staticClass: "max-w-7xl mx-auto sm:px-6 lg:px-8" }, [
           _c(
             "div",
-            { staticClass: "bg-white overflow-hidden shadow-xl sm:rounded-lg" },
-            [_vm._v("\n        The dashboard page content\n      ")]
+            {
+              staticClass:
+                "bg-white p-8 overflow-hidden shadow-xl sm:rounded-lg"
+            },
+            [
+              _c("p", [
+                _vm._v(
+                  "The dashboard page content.The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard "
+                )
+              ]),
+              _vm._v(" "),
+              _c("p", { staticClass: "mt-3" }, [
+                _vm._v(
+                  " page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content.  "
+                )
+              ])
+            ]
           )
         ])
       ])
@@ -45727,8 +45744,8 @@ function strSlug(string) {
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! J:\blog-backend\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! J:\blog-backend\resources\css\app.css */"./resources/css/app.css");
+__webpack_require__(/*! I:\jsxmax\day23 root\jsxman\inertiaman\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! I:\jsxmax\day23 root\jsxman\inertiaman\resources\css\app.css */"./resources/css/app.css");
 
 
 /***/ })

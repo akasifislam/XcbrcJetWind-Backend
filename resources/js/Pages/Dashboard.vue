@@ -6,8 +6,10 @@
 
     <div class="py-12">
       <div class="max-w-7xl mx-auto sm:px-6 lg:px-8">
-        <div class="bg-white overflow-hidden shadow-xl sm:rounded-lg">
-          <p>The dashboard page content.The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content.  </p>
+        <div class="bg-white p-8 overflow-hidden shadow-xl sm:rounded-lg">
+          <p>The dashboard page content.The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard </p>
+          
+          <p class="mt-3"> page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content. The dashboard page content.  </p>
         </div>
       </div>
     </div>
