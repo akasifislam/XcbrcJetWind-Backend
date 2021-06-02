@@ -12,7 +12,7 @@ class ArticlesController extends Controller
     public function index(Request $request)
     {
 
-        $articles = Article::with(['category:id,name'])->latest()->limit($request->get('limit', 9))->get();
+        $articles = Article::with(['category:id,name'])->latest()->simplePaginate($request->get('limit', 9));
 
 
 
